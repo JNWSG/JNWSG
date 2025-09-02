@@ -14,7 +14,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JNWSG&show_icons=true&locale=en" alt="JNWSG" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JNWSG&" alt="JNWSG" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JNWSG&" alt="JNWSG's GitHub streak" />
+</p>
 
 ## SourceForge 
 
